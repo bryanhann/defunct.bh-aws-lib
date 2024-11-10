@@ -1,0 +1,16 @@
+{
+    "KeyPairs": [
+        {
+            "KeyPairId": "key-00014239d120a78bb",
+            "KeyFingerprint": "0c:4d:c2:9e:2a:aa:9e:30:91:a3:65:8e:01:69:2e:8f:16:59:6d:de",
+            "KeyName": "tmp.bar",
+            "Tags": []
+        },
+        {
+            "KeyPairId": "key-0708e72279515fe4e",
+            "KeyFingerprint": "d0:a8:19:23:b4:80:db:3e:b2:4b:8d:93:9e:9e:7e:eb:2b:89:0e:7b",
+            "KeyName": "tmp.foo",
+            "Tags": []
+        }
+    ]
+}
